@@ -13,7 +13,7 @@ sites:
     url: https://abb.bel.tr
   - name: ABB Mail
     url: https://mail.antalya.bel.tr
-    port: 443
+    port: 80
     check: "tcp-ping"
     ipv6: true
 
