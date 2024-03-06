@@ -13,7 +13,6 @@ sites:
     url: https://abb.bel.tr
   - name: ABB Mail
     url: https://mail.antalya.bel.tr
-    __dangerous__insecure: true
     port: 80
     check: "tcp-ping"
     ipv6: true
