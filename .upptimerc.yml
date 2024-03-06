@@ -7,13 +7,13 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: Antalya Bel
+    url: https://antalya.bel.tr
+  - name: ABB Bel
+    url: https://abb.bel.tr
+  - name: ABB Mail
+    url: https://mail.antalya.bel.tr
+    port: 443
     check: "tcp-ping"
     ipv6: true
 
