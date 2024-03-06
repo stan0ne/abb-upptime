@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 65,
-    "timeDay": 65,
-    "timeWeek": 65,
-    "timeMonth": 65,
-    "timeYear": 65,
+    "time": 67,
+    "timeDay": 67,
+    "timeWeek": 67,
+    "timeMonth": 67,
+    "timeYear": 67,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 208,
-    "timeWeek": 208,
-    "timeMonth": 208,
-    "timeYear": 208,
+    "time": 292,
+    "timeDay": 292,
+    "timeWeek": 292,
+    "timeMonth": 292,
+    "timeYear": 292,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2671,
-    "timeDay": 2671,
-    "timeWeek": 2671,
-    "timeMonth": 2671,
-    "timeYear": 2671,
+    "time": 2860,
+    "timeDay": 2860,
+    "timeWeek": 2860,
+    "timeMonth": 2860,
+    "timeYear": 2860,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3752,
-    "timeDay": 3752,
-    "timeWeek": 3752,
-    "timeMonth": 3752,
-    "timeYear": 3752,
+    "time": 3888,
+    "timeDay": 3888,
+    "timeWeek": 3888,
+    "timeMonth": 3888,
+    "timeYear": 3888,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.antalya.bel.tr.ico",
     "slug": "abb-mail",
     "status": "down",
-    "uptime": "4.45%",
-    "uptimeDay": "4.45%",
-    "uptimeWeek": "4.45%",
-    "uptimeMonth": "4.45%",
-    "uptimeYear": "4.45%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-06": 3
+      "2024-03-06": 213
     }
   }
 ]
