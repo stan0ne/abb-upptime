@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 71,
-    "timeDay": 71,
+    "timeDay": 77,
     "timeWeek": 71,
     "timeMonth": 71,
     "timeYear": 71,
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 286,
-    "timeDay": 286,
-    "timeWeek": 286,
-    "timeMonth": 286,
-    "timeYear": 286,
+    "time": 275,
+    "timeDay": 180,
+    "timeWeek": 275,
+    "timeMonth": 275,
+    "timeYear": 275,
     "dailyMinutesDown": {}
   },
   {
@@ -40,36 +40,40 @@
     "url": "https://antalya.bel.tr",
     "icon": "https://icons.duckduckgo.com/ip3/antalya.bel.tr.ico",
     "slug": "antalya-bel",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2709,
-    "timeDay": 2709,
-    "timeWeek": 2709,
-    "timeMonth": 2709,
-    "timeYear": 2709,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 2515,
+    "timeDay": 1742,
+    "timeWeek": 2515,
+    "timeMonth": 2515,
+    "timeYear": 2515,
+    "dailyMinutesDown": {
+      "2024-03-07": 0
+    }
   },
   {
     "name": "ABB Bel",
     "url": "https://abb.bel.tr",
     "icon": "https://icons.duckduckgo.com/ip3/abb.bel.tr.ico",
     "slug": "abb-bel",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3775,
-    "timeDay": 3775,
-    "timeWeek": 3775,
-    "timeMonth": 3775,
-    "timeYear": 3775,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 3479,
+    "timeDay": 2298,
+    "timeWeek": 3479,
+    "timeMonth": 3479,
+    "timeYear": 3479,
+    "dailyMinutesDown": {
+      "2024-03-07": 0
+    }
   },
   {
     "name": "ABB Mail",
@@ -78,7 +82,7 @@
     "slug": "abb-mail",
     "status": "down",
     "uptime": "0.01%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "0.01%",
     "uptimeMonth": "0.01%",
     "uptimeYear": "0.01%",
@@ -88,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-07": 45,
+      "2024-03-07": 1410,
       "2024-03-06": 991
     }
   }
