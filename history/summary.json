@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 69,
-    "timeDay": 69,
-    "timeWeek": 69,
-    "timeMonth": 69,
-    "timeYear": 69,
+    "time": 71,
+    "timeDay": 71,
+    "timeWeek": 71,
+    "timeMonth": 71,
+    "timeYear": 71,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 299,
-    "timeWeek": 299,
-    "timeMonth": 299,
-    "timeYear": 299,
+    "time": 286,
+    "timeDay": 286,
+    "timeWeek": 286,
+    "timeMonth": 286,
+    "timeYear": 286,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2769,
-    "timeDay": 2769,
-    "timeWeek": 2769,
-    "timeMonth": 2769,
-    "timeYear": 2769,
+    "time": 2709,
+    "timeDay": 2709,
+    "timeWeek": 2709,
+    "timeMonth": 2709,
+    "timeYear": 2709,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3818,
-    "timeDay": 3818,
-    "timeWeek": 3818,
-    "timeMonth": 3818,
-    "timeYear": 3818,
+    "time": 3775,
+    "timeDay": 3775,
+    "timeWeek": 3775,
+    "timeMonth": 3775,
+    "timeYear": 3775,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.antalya.bel.tr.ico",
     "slug": "abb-mail",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-06": 221
+      "2024-03-07": 45,
+      "2024-03-06": 991
     }
   }
 ]
