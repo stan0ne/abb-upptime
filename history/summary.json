@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/antalya.bel.tr.ico",
     "slug": "antalya-bel",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2521,
     "timeDay": 2022,
     "timeWeek": 2521,
     "timeMonth": 2521,
     "timeYear": 2521,
-    "dailyMinutesDown": {
-      "2024-03-07": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ABB Bel",
@@ -61,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/abb.bel.tr.ico",
     "slug": "abb-bel",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3457,
     "timeDay": 2611,
     "timeWeek": 3457,
     "timeMonth": 3457,
     "timeYear": 3457,
-    "dailyMinutesDown": {
-      "2024-03-07": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ABB Mail",
@@ -81,18 +77,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.antalya.bel.tr.ico",
     "slug": "abb-mail",
     "status": "down",
-    "uptime": "0.00%",
+    "uptime": "0.01%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-07": 1418,
+      "2024-03-08": 54,
+      "2024-03-07": 1440,
       "2024-03-06": 991
     }
   }
