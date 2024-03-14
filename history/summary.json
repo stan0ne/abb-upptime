@@ -40,19 +40,19 @@
     "url": "https://antalya.bel.tr",
     "icon": "https://icons.duckduckgo.com/ip3/antalya.bel.tr.ico",
     "slug": "antalya-bel",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 2608,
-    "timeDay": 3451,
-    "timeWeek": 2518,
-    "timeMonth": 2608,
-    "timeYear": 2608,
+    "status": "up",
+    "uptime": "99.56%",
+    "uptimeDay": "96.62%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
+    "time": 2595,
+    "timeDay": 2911,
+    "timeWeek": 2503,
+    "timeMonth": 2595,
+    "timeYear": 2595,
     "dailyMinutesDown": {
-      "2024-03-14": 7
+      "2024-03-14": 49
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://abb.bel.tr",
     "icon": "https://icons.duckduckgo.com/ip3/abb.bel.tr.ico",
     "slug": "abb-bel",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 3539,
-    "timeDay": 4199,
-    "timeWeek": 3329,
-    "timeMonth": 3539,
-    "timeYear": 3539,
+    "status": "up",
+    "uptime": "99.56%",
+    "uptimeDay": "96.63%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
+    "time": 3535,
+    "timeDay": 3834,
+    "timeWeek": 3343,
+    "timeMonth": 3535,
+    "timeYear": 3535,
     "dailyMinutesDown": {
-      "2024-03-14": 7
+      "2024-03-14": 49
     }
   },
   {
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-14": 55,
+      "2024-03-14": 97,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
