@@ -1,7 +1,7 @@
 url: https://abb.bel.tr
-status: up
-code: 200
-responseTime: 3313
-lastUpdated: 2024-03-18T23:08:22.974Z
+status: down
+code: 503
+responseTime: 1610
+lastUpdated: 2024-03-18T23:30:02.636Z
 startTime: 2024-03-06T07:29:13.472Z
 generator: Upptime <https://github.com/upptime/upptime>
