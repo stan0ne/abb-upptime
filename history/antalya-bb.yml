@@ -1,7 +1,7 @@
 url: https://antalya.bel.tr
-status: up
-code: 200
-responseTime: 3688
-lastUpdated: 2025-03-12T22:58:26.908Z
+status: down
+code: 503
+responseTime: 1749
+lastUpdated: 2025-03-12T23:10:02.290Z
 startTime: 2024-12-27T17:31:27.761Z
 generator: Upptime <https://github.com/upptime/upptime>
