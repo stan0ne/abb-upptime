@@ -4,7 +4,7 @@
     "url": "https://antalya.bel.tr",
     "icon": "https://icons.duckduckgo.com/ip3/antalya.bel.tr.ico",
     "slug": "antalya-bb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 3863,
     "timeYear": 4257,
     "dailyMinutesDown": {
+      "2025-05-29": 0,
       "2025-03-27": 41,
       "2025-03-24": 16,
       "2025-03-20": 26,
