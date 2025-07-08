@@ -4,18 +4,19 @@
     "url": "https://antalya.bel.tr",
     "icon": "https://icons.duckduckgo.com/ip3/antalya.bel.tr.ico",
     "slug": "antalya-bb",
-    "status": "down",
-    "uptime": "98.83%",
-    "uptimeDay": "98.76%",
-    "uptimeWeek": "92.17%",
-    "uptimeMonth": "93.60%",
-    "uptimeYear": "98.83%",
+    "status": "up",
+    "uptime": "98.84%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "92.07%",
+    "uptimeMonth": "93.58%",
+    "uptimeYear": "98.84%",
     "time": 4209,
-    "timeDay": 3745,
-    "timeWeek": 3862,
-    "timeMonth": 4254,
+    "timeDay": 3814,
+    "timeWeek": 3867,
+    "timeMonth": 4253,
     "timeYear": 4209,
     "dailyMinutesDown": {
+      "2025-07-08": 10,
       "2025-07-07": 53,
       "2025-07-06": 169,
       "2025-07-04": 176,
@@ -44,8 +45,7 @@
       "2025-06-07": 132,
       "2025-06-06": 84,
       "2025-06-05": 21,
-      "2025-06-04": 144,
-      "2025-03-27": 41
+      "2025-06-04": 144
     }
   }
 ]
