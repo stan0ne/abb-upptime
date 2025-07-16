@@ -6,17 +6,17 @@
     "slug": "antalya-bb",
     "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "97.48%",
-    "uptimeWeek": "97.64%",
-    "uptimeMonth": "93.28%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "97.78%",
+    "uptimeMonth": "93.35%",
     "uptimeYear": "98.91%",
-    "time": 4191,
-    "timeDay": 3768,
-    "timeWeek": 3884,
-    "timeMonth": 4278,
-    "timeYear": 4191,
+    "time": 4189,
+    "timeDay": 3535,
+    "timeWeek": 3879,
+    "timeMonth": 4282,
+    "timeYear": 4189,
     "dailyMinutesDown": {
-      "2025-07-15": 36,
+      "2025-07-15": 22,
       "2025-07-12": 16,
       "2025-07-11": 105,
       "2025-07-10": 31,
@@ -46,7 +46,8 @@
       "2025-06-15": 16,
       "2025-06-10": 72,
       "2025-06-09": 111,
-      "2025-06-08": 18
+      "2025-06-08": 18,
+      "2025-06-07": 18
     }
   }
 ]
